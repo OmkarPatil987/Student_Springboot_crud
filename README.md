@@ -1,4 +1,4 @@
-Student CRUD API
+**Student CRUD API**
 This repository contains a simple CRUD (Create, Read, Update, Delete) API for managing student records. The project is built using Spring Boot, and it provides RESTful endpoints for performing various operations on a Student entity.
 
 Table of Contents
