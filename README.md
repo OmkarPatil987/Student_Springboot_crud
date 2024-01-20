@@ -27,7 +27,7 @@ The Student CRUD API allows users to perform basic CRUD operations on student re
 
 - [Spring Boot](https://spring.io/projects/spring-boot): Framework for building Java-based applications.
 - [Spring Data JPA](https://spring.io/projects/spring-data-jpa): Data access framework for Java applications.
-- [H2 Database](https://www.h2database.com/): In-memory database for development and testing.
+- [MySQL Database](https://www.MySQL.com/):  database for development and testing.
 - [Maven](https://maven.apache.org/): Dependency management and build tool.
 
 ## Getting Started
